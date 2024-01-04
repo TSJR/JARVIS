@@ -4,8 +4,6 @@ import json
 from time import sleep
 from pprint import pprint
 
-# Key = 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
-
 client = OpenAI()
 
 # GPT vars
